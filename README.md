@@ -1,6 +1,6 @@
 #GoLearn
 
-###requirements:
+requirements:
 - go version latest
 - postgresql
 
@@ -14,8 +14,8 @@ run project
 $ go run main.go
 ```
 
-
-###Insomnia Team Sync
+Insomnia Team Sync
 follow this [link](https://docs.insomnia.rest/insomnia/git-sync).
 
+---
 &copy;2022 airlanggaadie
