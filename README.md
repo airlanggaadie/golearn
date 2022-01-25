@@ -11,6 +11,7 @@ $ cp .env.example .env #then fill it!
 
 run project
 ```
+$ go mod tidy
 $ go run main.go
 ```
 
