@@ -1,0 +1,21 @@
+_id: req_88d3817e00db4001bbbddc3fa16b715d
+type: Request
+parentId: wrk_bad335dade5b41859575ab60d8e70750
+modified: 1637140090089
+created: 1637139932172
+url: "{{ _.base_url }}/ping"
+name: PingPong
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1637140026118
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

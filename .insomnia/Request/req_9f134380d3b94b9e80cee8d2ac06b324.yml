@@ -1,0 +1,26 @@
+_id: req_9f134380d3b94b9e80cee8d2ac06b324
+type: Request
+parentId: fld_f0e0223e12fd4660b4f44ec50e0e1197
+modified: 1637140286307
+created: 1637140047494
+url: "{{ _.base_url }}{{ _.api_v1 }}/version"
+name: Get version
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: id
+    value: "1"
+    description: ""
+    id: pair_c5706b27e45c4c119f8df01e19ff3913
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1637140047494
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
